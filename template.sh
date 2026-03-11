@@ -2,7 +2,7 @@
 mkdir -p src
 mkdir -p research
 
-# Creating Files0
+# Creating Files
 touch src/__init__.py
 touch src/helper.py
 touch src/prompt.py
@@ -12,7 +12,7 @@ touch app.py
 touch requirements.txt
 touch research/trials.ipynb
 
-echo "Directory and Files created successfully"
+echo "Directory and Files Created Successfully"
 
 
 
